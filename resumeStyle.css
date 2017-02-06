@@ -1,12 +1,29 @@
-p
-{
+p{
 	display:inline;
+	font-size: 15px;
 }
 
+h1{
+	font-size: 45px;
+}
+
+h2{
+	font-size: 35px;
+}
+
+h3{
+	font-size: 25px;
+}
 .titles{
-	
+	font-weight = bold;
+	font-size: 25px;
 }
 
 .details{
-	
+	font-size: 16px;
+}
+
+.italicized{
+	font-style: italic;
+	font-size: 16px;
 }
