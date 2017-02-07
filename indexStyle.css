@@ -17,12 +17,11 @@ p{
 }
 
 #image{
-	height: 120px
-	width: 200px;
+	height: 750px;
+	width: 750px;
 	text-align: center;
 }
 
 #image img{
-	width: 40%;
-	height: 40%;
+	max-width: 50%;
 }
