@@ -24,10 +24,12 @@ ul{
 
 #name{
 	text-align: center;
+	font-size: 40px;
 }
 
 #email{
-	text-align:center;
+	text-align: center;
+	font-size: 16px;
 }
 
 .titles{
