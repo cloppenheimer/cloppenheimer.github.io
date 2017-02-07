@@ -2,12 +2,14 @@ body{
 	background-color: MintCream;
 	color: MidnightBlue;
 	font-family: "Times New Roman";
+	margin-top: 1px;
+	margin-bottom: 1px;
 }
 
 p{
 	display:inline;
 	font-size: 18px;
-	margin-left: 100px;
+	margin-left: 50px;
 }
 
 h1{
@@ -16,13 +18,15 @@ h1{
 
 h2{
 	font-size: 30px;
-	margin-left: 50px;
+	border-bottom-color: MidnightBlue;
+	border-bottom-width: 1px;
+	margin-left: 25px;
 }
 
 ul{
 	font-size: 16px;
 	font-weight: normal;
-	margin-left: 100px;
+	margin-left: 50px;
 }
 
 #name{
@@ -40,19 +44,19 @@ ul{
 .titles{
 	font-weight: bold;
 	font-size: 20px;
-	margin-left: 100px;
+	margin-left: 50px;
 }
 
 .details{
 	font-weight: normal;
 	font-size: 16px;
-	margin-left: 100px;
+	margin-left: 50px;
 }
 
 .italicized{
 	font-weight: normal;
 	font-style: italic;
 	font-size: 16px;
-	margin-left: 100px;
+	margin-left: 50px;
 }
 
