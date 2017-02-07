@@ -5,11 +5,12 @@ p{
 
 h1{
 	font-size: 40px;
+	padding-bottom:2cm;
 }
 
 h2{
 	font-size: 30px;
-	display:inline;
+	padding-bottom: 2cm;
 }
 
 h3{
