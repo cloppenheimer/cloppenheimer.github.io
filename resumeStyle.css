@@ -12,33 +12,35 @@ p{
 	margin-left: 50px;
 }
 
-h1{
-	font-size: 40px;
-}
-
 h2{
 	font-size: 30px;
 	border-bottom-color: MidnightBlue;
 	border-bottom-width: 1px;
 	margin-left: 25px;
+	margin-top: 5px;
+	margin-bottom: 1px;
 }
 
 ul{
 	font-size: 16px;
 	font-weight: normal;
 	margin-left: 50px;
+	margin-top: 4px;
+	margin-bottom: 4px;
 }
 
 #name{
 	text-align: center;
 	font-size: 40px;
 	font-weight: bold;
+	margin-bottom: 0px;
 }
 
 #email{
 	text-align: center;
 	font-size: 16px;
 	font-weight: normal;
+	margin-top: 0px
 }
 
 .titles{
