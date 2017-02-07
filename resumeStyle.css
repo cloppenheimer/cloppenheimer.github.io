@@ -1,6 +1,6 @@
 body{
 	background-color: MintCream;
-	color: Navy;
+	color: rgb(0,0,37);
 }
 
 p{
@@ -10,17 +10,10 @@ p{
 
 h1{
 	font-size: 40px;
-	padding-bottom:0cm;
 }
 
 h2{
 	font-size: 30px;
-	padding-top:0cm;
-	padding-bottom: 0cm;
-}
-
-h3{
-	font-size: 22px;
 }
 
 ul{
