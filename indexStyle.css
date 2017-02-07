@@ -1,0 +1,15 @@
+body{
+	background-color: MintCream;
+	color: MidnightBlue;
+	font-family: "Times New Roman";
+	text-align: center;
+}
+
+div{
+	height: 50%;
+	width: 50%;
+}
+
+h1{
+	text-align: center;
+}
