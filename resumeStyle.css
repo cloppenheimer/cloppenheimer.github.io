@@ -22,6 +22,10 @@ ul{
 	font-weight: normal;
 }
 
+#name{
+	text-align: center;
+}
+
 .titles{
 	font-weight: bold;
 	font-size: 20px;
