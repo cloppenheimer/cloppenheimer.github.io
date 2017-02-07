@@ -5,11 +5,16 @@ body{
 	text-align: center;
 }
 
-div{
+#image{
 	height: 50%;
 	width: 50%;
 }
 
 h1{
 	text-align: center;
+	font-size: 40px;
+}
+
+p{
+	font-size: 20px;
 }
