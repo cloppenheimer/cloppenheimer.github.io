@@ -5,12 +5,13 @@ p{
 
 h1{
 	font-size: 40px;
-	padding-bottom:.1cm;
+	padding-bottom:0cm;
 }
 
 h2{
 	font-size: 30px;
-	padding-bottom: .1cm;
+	padding-top:0cm;
+	padding-bottom: 0cm;
 }
 
 h3{
@@ -20,10 +21,7 @@ h3{
 ul{
 	font-size: 16px;
 	font-weight: normal;
-}
-
-.headings{
-
+	padding-top:0.1 cm;
 }
 
 .titles{
